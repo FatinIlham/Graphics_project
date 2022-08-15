@@ -1,4 +1,3 @@
-# Graphics_project
 # Catch the Balls
 
 ![image](https://user-images.githubusercontent.com/61835955/184641545-fad262fd-1017-4ee4-a36d-59f4532deb97.png)
