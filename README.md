@@ -1,6 +1,7 @@
 # Catch the Balls
 It is a simple game in which balls are dropped randomly from the top, which we have to catch. The user of the game controls a basket in which the balls must be collected. The aim is to catch as many balls as possible and earn points. The basket is located at the bottom of the screen and can only move to the left and right. The user gets 3 life’s. If he misses to catch 3 time’s the game will be over.
-##Overview: 
+
+## Overview: 
 In this project, I use “Graphics.h” library and C++ programing language. Some functionality 
 used in this project is given below:
 *  **Dropping balls:** In this process, I used rand()%(upper-lower+1))+lower function. This is randomly generating a number between upper and lower bound. And from that        random position the ball is dropping.
