@@ -1,6 +1,7 @@
 # Catch the Balls
 
-![image](https://user-images.githubusercontent.com/61835955/184641545-fad262fd-1017-4ee4-a36d-59f4532deb97.png)
+
+<img src="https://user-images.githubusercontent.com/61835955/184641545-fad262fd-1017-4ee4-a36d-59f4532deb97.png" width="500px">
 
 ![image](https://user-images.githubusercontent.com/61835955/184641681-a8da9b7f-d6eb-48a0-8f3e-096f7e0f5b71.png)
 
